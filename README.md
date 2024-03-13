@@ -51,6 +51,7 @@ Contributions to the ChatGPT Equation Renderer Chrome Extension are welcome and 
 ## Credits
 
 CSV Icon : https://www.flaticon.com/free-icon/file_12378716?term=csv&page=4&position=21&origin=tag&related_id=12378716
+
 JSON Icon : https://www.flaticon.com/free-icon/folder_11580983?term=json&page=1&position=44&origin=search&related_id=11580983
 
 ## License
